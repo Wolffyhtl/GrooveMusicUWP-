@@ -1,7 +1,7 @@
 # Groove音乐UWP 去更新版
 自己改过的安装包，可以共存，不用担心更新
-### 已知问题：
-- 软件界面几乎全是英文，只有两处中文
+## 已知问题：
+- 软件界面几乎全是英文，只有三处中文
 ## 打包方法：
 1. 下载Groove音乐的安装包，打开[这个链接](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c92cf6fc-faca-4aff-94b9-a032ddb4541b?P1=1742473249&P2=404&P3=2&P4=BHClUtq8TGnhWWVtA2JfrNk60Bbv%2bwwYDLqyp6QpQ4nEWgiucHd5UYDogO8P71YfRNl%2fnn6y2B8wNwULRupO3A%3d%3d)，会直接开始下载.
 想要其他版本的话，去[这个网站](https://store.rg-adguard.net/)里找
